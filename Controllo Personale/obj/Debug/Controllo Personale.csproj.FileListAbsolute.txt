@@ -1,0 +1,4 @@
+C:\Users\Cris9400\Source\Repos\Registro-Personale-C-\Controllo Personale\obj\Debug\Controllo Personale.csprojAssemblyReference.cache
+C:\Users\Cris9400\Source\Repos\Registro-Personale-C-\Controllo Personale\obj\Debug\Controllo_Personale.home_form.resources
+C:\Users\Cris9400\Source\Repos\Registro-Personale-C-\Controllo Personale\obj\Debug\Controllo_Personale.Properties.Resources.resources
+C:\Users\Cris9400\Source\Repos\Registro-Personale-C-\Controllo Personale\obj\Debug\Controllo Personale.csproj.GenerateResource.cache
