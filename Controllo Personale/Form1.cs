@@ -18,7 +18,7 @@ namespace Controllo_Personale
 
         private void end_button_Click(object sender, EventArgs e)
         {
-            this.Close()
+            this.Close();
         }
 
         private void minimize_button_Click(object sender, EventArgs e)
